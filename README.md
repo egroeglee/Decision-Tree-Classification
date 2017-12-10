@@ -1,6 +1,6 @@
 # Decision-Tree-Classification
 
-決策樹的資料分析模板，基本上可以直接套用。
+決策樹的資料分析模板。
 
 - Decision tree 決策樹 -容易過度擬合
     CART1 : (classification分類(離散數據Nominal)
