@@ -1,10 +1,11 @@
 # Decision-Tree-Classification
 
-決策樹的資料分析模板。
+1.決策樹的資料分析模板。
 
-Decision tree 決策樹 -容易過度擬合
-    CART1 : (classification分類(離散數據Nominal)
-    CART2 : (Regression回歸(連續的數字.可數Numeric)
+2.Decision tree 決策樹 -容易過度擬合。
+
+	a. CART1 : (classification分類(離散數據Nominal)
+	b. CART2 : (Regression回歸(連續的數字.可數Numeric)
     
     
 可用指標: Gini / Entropy / Information Gain / Misclassification Error
