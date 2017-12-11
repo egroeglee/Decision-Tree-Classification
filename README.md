@@ -24,3 +24,5 @@
 圖表: 測試集
 ![image](https://github.com/egroeglee/pictures/blob/master/DecisionTree/5.png) 
 	根據confusion Matrix可以看到有9個被分類錯誤與上圖相同
+	
+# Randon Forest 隨機森林算法 ...
